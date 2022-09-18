@@ -1,4 +1,4 @@
-This is a collective notes in reviewing various ML models for image recognition in Kaggle
+This is a collection of notes in reviewing various ML models for image recognition in Kaggle
 	- The codes need to be tune further for a specifice project
 	- Data are in the links corresponding to the models to, not in the repositories; need to download and import the data when running the models
 
